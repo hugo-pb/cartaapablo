@@ -1,3 +1,13 @@
 .Intro img {
-    height: 10px;
+    height: 300px;
+    
+
+}
+
+.Intro {
+    display: flex;
+  
+}
+.Intro p {
+    margin-top: 7rem;
 }

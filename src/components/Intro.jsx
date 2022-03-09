@@ -8,7 +8,9 @@ return (<div className="Intro">
     <Container>
     <Row>
     <Col>
-<p>El motivo de esta carta es que me gustaria felicitarte por el exelente trabajo que haces en el departamento de audio y video. </p>
+<p>El motivo de esta carta es que me gustaria felicitarte por el 
+    exelente trabajo que haces en el departamento de audio y video. 
+     </p>
 
 </Col>
 <Col>
